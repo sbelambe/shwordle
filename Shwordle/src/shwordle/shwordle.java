@@ -6,6 +6,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * Wordle game
+ * @author shivani
+ *
+ */
 public class shwordle {
 
 	public static String words[] = new String[1];
