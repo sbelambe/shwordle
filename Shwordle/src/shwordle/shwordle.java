@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Wordle game
+ * Wordle game - 
  * @author shivani
  *
  */
